@@ -1,0 +1,146 @@
+# Tag name          ;  color
+PMR446              ; #c0c0c0
+CB                  ; #c0c0c0
+LOTN                ; #c0c0c0
+pozwolenia          ; #c0c0c0
+PKP                 ; #c0c0c0
+Untagged            ; #c0c0c0
+PSP                 ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+           0; Dziwne                   ; Narrow FM           ;      10000; Untagged
+    26960000; CB1                      ; AM                  ;      10000; CB
+    26970000; CB2                      ; AM                  ;      10000; CB
+    26980000; CB3                      ; AM                  ;      10000; CB
+    27000000; CB4                      ; AM                  ;      10000; CB
+    27010000; CB5                      ; AM                  ;      10000; CB
+    27020000; CB6                      ; AM                  ;      10000; CB
+    27030000; CB7                      ; AM                  ;      10000; CB
+    27050000; CB8                      ; AM                  ;      10000; CB
+    27060000; CB9                      ; AM                  ;      10000; CB
+    27070000; CB10                     ; AM                  ;      10000; CB
+    27080000; CB11                     ; AM                  ;      10000; CB
+    27100000; CB12                     ; AM                  ;      10000; CB
+    27110000; CB13                     ; AM                  ;      10000; CB
+    27120000; CB14                     ; AM                  ;      10000; CB
+    27130000; CB15                     ; AM                  ;      10000; CB
+    27150000; CB16                     ; AM                  ;      10000; CB
+    27160000; CB17                     ; AM                  ;      10000; CB
+    27170000; CB18                     ; AM                  ;      10000; CB
+    27180000; CB19                     ; AM                  ;       9600; CB
+    27200000; CB20                     ; AM                  ;       9600; CB
+    27210000; CB21                     ; AM                  ;       9600; CB
+    27220000; CB22                     ; AM                  ;       9600; CB
+    27230000; CB24                     ; AM                  ;       9600; CB
+    27240000; CB25                     ; AM                  ;       9600; CB
+    27250000; CB23                     ; AM                  ;       9600; CB
+    27260000; CB26                     ; AM                  ;       9600; CB
+    27270000; CB27                     ; AM                  ;       9600; CB
+    27280000; CB28                     ; AM                  ;       9600; CB
+    27290000; CB29                     ; AM                  ;       9600; CB
+    27300000; CB30                     ; AM                  ;       9600; CB
+    27310000; CB31                     ; AM                  ;       9600; CB
+    27320000; CB32                     ; AM                  ;       9600; CB
+    27330000; CB33                     ; AM                  ;       9600; CB
+    27340000; CB34                     ; AM                  ;       9600; CB
+    27350000; CB35                     ; AM                  ;       9600; CB
+    27360000; CB36                     ; AM                  ;       9600; CB
+    27370000; CB37                     ; AM                  ;       9600; CB
+    27380000; CB38                     ; AM                  ;       9600; CB
+    27390000; CB39                     ; AM                  ;       9600; CB
+    27400000; CB40                     ; AM                  ;      10000; CB
+   114900200; Radiolatarnia_zaborowek  ; AM                  ;       3400; Untagged
+   125448500; koecie?                  ; AM                  ;       5000; LOTN
+   127000200; okecie_again             ; AM                  ;       9600; LOTN
+   127598400; okecie_informacja        ; AM                  ;       9600; LOTN
+   128800000; Okecie_PODEJSCIE         ; AM                  ;       9600; LOTN
+   129376000; okecie_2                 ; AM                  ;       9600; LOTN
+   134475500; jakies_miedzynarodowe    ; AM                  ;      10000; Untagged
+   134875500; jakas lotnicza           ; AM                  ;       6500; Untagged
+   135600300; inna lotnicza            ; AM                  ;      10000; Untagged
+   143549500; tez ama                  ; Narrow FM           ;      10000; Untagged
+   143625000; ISS_RuskaZaloga          ; Narrow FM           ;      10000; Untagged
+   143676100; amatorzy4                ; Narrow FM           ;      17600; Untagged
+   144524300; amatorzy                 ; Narrow FM           ;      10000; Untagged
+   144575600; amat                     ; Narrow FM           ;      10000; Untagged
+   144799700; transmisja_cyfrowaAFSK1200; Narrow FM           ;      17600; Untagged
+   145243700; amatorzy2                ; Narrow FM           ;      10000; Untagged
+   145277800; amatorzy3                ; Narrow FM           ;      17600; Untagged
+   145350200; amatorzy                 ; Narrow FM           ;      10000; Untagged
+   145425000; amatorzy                 ; Narrow FM           ;      17600; Untagged
+   145450800; SP5CWC_Piaseczno         ; Narrow FM           ;      10000; Untagged
+   145474200; amatorzy7                ; Narrow FM           ;      10000; Untagged
+   145500000; ama                      ; Narrow FM           ;       5000; Untagged
+   145523500; ama                      ; Narrow FM           ;      10000; Untagged
+   145774200; przemiennik?             ; Narrow FM           ;      10000; Untagged
+   145800000; ISS_Data                 ; Narrow FM           ;      10000; Untagged
+   146323500; amatorzy5                ; Narrow FM           ;      10000; Untagged
+   146599800; AFSK1200_nast            ; Narrow FM           ;      10000; Untagged
+   147800000; ochrona jakas            ; Narrow FM           ;      10000; Untagged
+   148574400; jakis morse              ; Narrow FM           ;      10000; Untagged
+   148652000; mw_500 cos trening       ; Narrow FM           ;      10000; Untagged
+   148787400; Jakas SP                 ; Narrow FM           ;      10000; PSP
+   148900600; SP_W-wa_Zachod           ; Narrow FM           ;       5000; PSP
+   148937200; Pruszkow_SP              ; Narrow FM           ;      10000; PSP
+   149100000; jakas_SP                 ; Narrow FM           ;       5000; PSP
+   149112500; cos?                     ; Narrow FM           ;      10000; Untagged
+   149187500; legionowo_costam         ; Narrow FM           ;       5000; Untagged
+   150100000; PKP1                     ; Narrow FM           ;      10000; PKP
+   150150000; PKP2                     ; Narrow FM           ;      10000; PKP
+   150225000; PKP3                     ; Narrow FM           ;      10000; PKP
+   150263000; PKP?                     ; Narrow FM           ;       5000; Untagged
+   150325000; PKP4                     ; Narrow FM           ;      10000; PKP
+   150375000; PKP5                     ; Narrow FM           ;      10000; PKP
+   150502500; co to                    ; Narrow FM           ;       5000; Untagged
+   154600400; ama                      ; Narrow FM           ;      10000; Untagged
+   154826300; jakas ekipa bud          ; Narrow FM           ;       5000; Untagged
+   157962500; hamradio157              ; Narrow FM           ;       5000; pozwolenia
+   158100000; avanti158                ; Narrow FM           ;       5000; pozwolenia
+   158375000; Autoradia_158Mhz         ; Narrow FM           ;       5000; pozwolenia
+   168525000; Pogotowie?               ; Narrow FM           ;      10000; Untagged
+   168850000; WTF?                     ; Narrow FM           ;      10000; Untagged
+   170174500; jakies_magazyny          ; Narrow FM           ;       5000; Untagged
+   170325600; teletech                 ; Narrow FM           ;       5000; Untagged
+   230400300; wtf?                     ; Narrow FM           ;      10000; Untagged
+   428236400; jakis_trunking           ; Narrow FM           ;       5000; Untagged
+   429525500; jakas_budowlana_drogowa  ; Narrow FM           ;       5000; Untagged
+   434000000; dziwna_cyfra             ; WFM (mono)          ;     160000; Untagged
+   436825000; jakis przemiennik        ; Narrow FM           ;       5000; Untagged
+   437551000; bbb                      ; Narrow FM           ;      10000; Untagged
+   437709500; ama/przemiennik          ; Narrow FM           ;      10000; Untagged
+   437850700; jakis analog             ; Narrow FM           ;      10000; Untagged
+   438000500; kolejny_analog           ; Narrow FM           ;      17600; Untagged
+   438026500; iii analog               ; Narrow FM           ;      12500; Untagged
+   438200000; jakis_przemiennik        ; Narrow FM           ;      12500; Untagged
+   438551400; chyba_przmeiennik_DMR    ; Narrow FM           ;      10000; Untagged
+   438626300; Przemiennik_pruszkow     ; Narrow FM           ;      12500; Untagged
+   439000400; ama                      ; Narrow FM           ;      20000; Untagged
+   439174000; ama                      ; Narrow FM           ;       9600; Untagged
+   439223200; jakis_przemiennik        ; Narrow FM           ;      20000; Untagged
+   439274000; odlegla_slaby_sygnal     ; Narrow FM           ;       5000; Untagged
+   439301500; analog                   ; Narrow FM           ;      10000; Untagged
+   439348900; Dziwne2                  ; Narrow FM           ;      10000; Untagged
+   439651000; ciekawa_analog           ; Narrow FM           ;      10000; Untagged
+   439825200; kolejny_analog           ; Narrow FM           ;      12500; Untagged
+   446006250; PMR1                     ; Narrow FM           ;      12500; PMR446
+   446018750; PMR2                     ; Narrow FM           ;      12500; PMR446
+   446031250; PMR3                     ; Narrow FM           ;      12500; PMR446
+   446043750; PMR4                     ; Narrow FM           ;      12500; PMR446
+   446056250; PMR5                     ; Narrow FM           ;      12500; PMR446
+   446068750; PMR6                     ; Narrow FM           ;      12500; PMR446
+   448112500; hamradio448              ; Narrow FM           ;       5000; pozwolenia
+   448125000; autoradia448             ; Narrow FM           ;       5000; pozwolenia
+   448300000; jakis_analog             ; Narrow FM           ;       5000; Untagged
+   448825000; avanti448                ; Narrow FM           ;       5000; pozwolenia
+   460250800; PSP? trunking okolica    ; Narrow FM           ;      10000; PSP
+   460800000; asss                     ; Narrow FM           ;       5000; Untagged
+   461202500; aaaaaa                   ; Narrow FM           ;      10000; Untagged
+   467387000; Jakas spedycja           ; Narrow FM           ;      10000; Untagged
+   467527100; co to analogx            ; Narrow FM           ;      10000; Untagged
+   468086700; tez_pogotowie            ; Narrow FM           ;      10000; Untagged
+   468537400; Pogotowie Blonie dyspozytor; Narrow FM           ;      10000; Untagged
+   468550800; tez_pogo                 ; Narrow FM           ;       5000; Untagged
+   468600300; xxx                      ; Narrow FM           ;      10000; Untagged
+   468613200; xxxx                     ; Narrow FM           ;      10000; Untagged
+   468762000; co_to                    ; Narrow FM           ;      10000; Untagged
+   469187300; aaaaa                    ; Narrow FM           ;      10000; Untagged
